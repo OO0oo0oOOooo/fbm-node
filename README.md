@@ -1,1 +1,3 @@
-# Fractal Brownian Motion node for ShaderGraph
+# Noise Nodes for ShaderGraph
+* DomainWarping
+* Fractal Brownian Motion
