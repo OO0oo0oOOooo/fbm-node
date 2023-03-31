@@ -1,0 +1,17 @@
+{
+    "name": "com.oo0oo0oooooo.fbm-nodes",
+    "version": "1.0.0",
+    "displayName": "FBM Nodes",
+    "description": "Noise nodes for shader graph",
+    "unity": "2020.3",
+    "keywords": [
+      "Noise Nodes",
+      "Fractal Brownian Motion",
+      "Domain Warping"
+    ],
+    "author": {
+      "name": "KM",
+      "email": "OO0oo0oOOooo@hotmail.com"
+    },
+    "type": "tool"
+}
